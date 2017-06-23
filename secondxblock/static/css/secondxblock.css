@@ -1,0 +1,9 @@
+/* CSS for SecondXBlock */
+
+.secondxblock_block .count {
+    font-weight: bold;
+}
+
+.secondxblock_block p {
+    cursor: pointer;
+}
